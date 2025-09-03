@@ -1,4 +1,9 @@
-*.class  
-/bin/  
-/out/  
-*.log 
+# Ignorer les fichiers compilés Java
+*.class
+
+# Ignorer les dossiers de compilation
+/bin/
+/out/
+
+# Ignorer les fichiers de log éventuels
+*.log
