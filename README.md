@@ -27,9 +27,4 @@ Ce projet applique les concepts de structures de données en les traduisant dans
 
 # Pour l’exécution
 
-Assurez-vous d’avoir **Java (JDK)** installé. Puis exécutez :
-
-git clone https://github.com/joy843/GestionStock.git
-cd GestionStock/src
-javac *.java
-java Gestionnaire
+Assurez-vous d’avoir **Java (JDK)** installé.
